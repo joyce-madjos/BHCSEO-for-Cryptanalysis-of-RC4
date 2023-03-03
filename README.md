@@ -1,5 +1,7 @@
 # Binary Hybrid Cuckoo Search Equilibrium Optimizer (CSEO) Algorithm for Cryptanalysis of Internal State of Rivest Cipher 4 (RC4)
 
+(A Thesis Presented to the Faculty of the College of Computer and Information Sciences Polytechnic University of the Philippines)
+
 Programmer: Madjos, Joyce A.
 
 Date Written:  23 ‎November ‎2022, Last Revised: 11 December 2022                                         
